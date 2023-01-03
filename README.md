@@ -1,2 +1,2 @@
 # alurabook
-Projeto feito durante o curso de responsividade da Alura utilizando HTML & CSS
+Construção de um site de livros responsivo (mobile first) usando HTML & CSS.
